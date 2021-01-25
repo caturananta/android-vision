@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "567343344120",
+    "firebase_url": "https://androidvisionchad.firebaseio.com",
+    "project_id": "androidvisionchad",
+    "storage_bucket": "androidvisionchad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567343344120:android:b0a63bc238ba1c05f34e0d",
+        "android_client_info": {
+          "package_name": "co.id.chad.androidvision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567343344120-2u5rdehrfeeeh910qe8atd1hqh1u16fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.id.chad.androidvision",
+            "certificate_hash": "d5b9a32bb4027fd926a86323d92f85594663247e"
+          }
+        },
+        {
+          "client_id": "567343344120-fhf701cu085i06o34e15ifh6djt8ldnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH9boFeGg_h95Vl5dYb54UzsQxR9-q-a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567343344120-fhf701cu085i06o34e15ifh6djt8ldnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
